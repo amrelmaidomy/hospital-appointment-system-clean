@@ -8,12 +8,11 @@ A backend system for managing hospital appointments between patients and doctors
 
 | Name | Student ID |
 |------|-----------|
-| Abdelrahman Mohamed Farouk | 931250585 |
-| Fares Nasser Sameh | 931250613 |
-| Youssef Mohamed Fathy | 931230377 |
-| Philopater Farag Georgiou | 931230213 |
-| Ezzelden Adel Hassan | 931230183 |
-| Mohamed Nasser Ahmed | 931230271 |
+| Amr Khaled Abo El ftouh |931230204 |
+| Ahmed Abdalla  | 931230036 |
+| Ahmed yasser  | 931230052 |
+| Mostafa mohamed | 931230309 |
+
 
 ---
 
@@ -66,7 +65,7 @@ A RESTful API backend system that manages hospital appointments with:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/youbbb890987/hospital-appointment-system.git
+git clone https://github.com/amrelmaidomy/hospital-appointment-system-clean.git
 cd hospital-appointment-system
 ```
 
